@@ -2,4 +2,4 @@
 
 ---
 
-Ez egy teszt repo
+Ez egy **teszt** repo
